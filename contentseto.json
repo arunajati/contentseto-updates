@@ -1,12 +1,12 @@
 {
-  "version": "0.3.6",
-  "tag": "v0.3.6",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.6",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.6/contentseto-0.3.6.zip",
-  "asset_name": "contentseto-0.3.6.zip",
+  "version": "0.3.7",
+  "tag": "v0.3.7",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.7",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.7/contentseto-0.3.7.zip",
+  "asset_name": "contentseto-0.3.7.zip",
   "published_at": "2026-07-06T00:00:00+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.6 adds dynamic special feed discovery for Avada Instagram. Avada Instagram appears in Export > Feeds only when enabled and detected, with selectable discovered fields. The /instagram endpoint returns only enabled fields."
+  "body": "ContentSeto 0.3.7 rebuilds Import Sources as a Postman-style source builder with Params, Headers, Body, Response, and Mapping Summary panels. It adds URL query parsing into Params and moves Test Request and Preview Data into Sources."
 }
