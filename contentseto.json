@@ -1,12 +1,12 @@
 {
-  "version": "0.3.8",
-  "tag": "v0.3.8",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.8",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.8/contentseto-0.3.8.zip",
-  "asset_name": "contentseto-0.3.8.zip",
+  "version": "0.3.9",
+  "tag": "v0.3.9",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.9",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.9/contentseto-0.3.9.zip",
+  "asset_name": "contentseto-0.3.9.zip",
   "published_at": "2026-07-06T00:00:00+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.8 fixes Import Source Builder performance after large Test Request or Preview responses. Large response previews are shortened before being saved in WordPress options, and old import action preview data is cleared on upgrade."
+  "body": "ContentSeto 0.3.9 adds a full visual import mapping builder, API field discovery from preview data for nested objects and arrays, conditional include/exclude rules with AND/OR mode, duplicate behavior controls, wildcard array paths, and removes automatic default field assignment for new mappings."
 }
