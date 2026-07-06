@@ -1,0 +1,12 @@
+{
+  "version": "0.3.5",
+  "tag": "v0.3.5",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.5",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.5/contentseto-0.3.5.zip",
+  "asset_name": "contentseto-0.3.5.zip",
+  "published_at": "2026-07-06T00:00:00+07:00",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "6.6",
+  "body": "ContentSeto 0.3.5 switches CMS updates to a public manifest and public ZIP artifact, so users do not need tokens or update credentials in the WordPress UI."
+}
