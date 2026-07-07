@@ -1,12 +1,12 @@
 {
-  "version": "0.3.13",
-  "tag": "v0.3.13",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.13",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.13/contentseto-0.3.13.zip",
-  "asset_name": "contentseto-0.3.13.zip",
+  "version": "0.3.14",
+  "tag": "v0.3.14",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.14",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.14/contentseto-0.3.14.zip",
+  "asset_name": "contentseto-0.3.14.zip",
   "published_at": "2026-07-07T00:00:00+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.13 hardens the Avada Instagram endpoint with short internal caching, last-good-response fallback when Avada/AWB is temporarily unavailable, and reduced repeated Avada/AWB calls from discovery, health, and Instagram responses."
+  "body": "ContentSeto 0.3.14 improves Import Mapping target context: ACF field choices are filtered by the selected WordPress content type, mapping controls are target-aware for cache/post/page/CPT/taxonomy/option, and Save Mapping now shows a clear Next: Sync Now step."
 }
