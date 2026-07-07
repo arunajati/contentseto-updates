@@ -1,12 +1,12 @@
 {
-  "version": "0.3.10",
-  "tag": "v0.3.10",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.10",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.10/contentseto-0.3.10.zip",
-  "asset_name": "contentseto-0.3.10.zip",
+  "version": "0.3.11",
+  "tag": "v0.3.11",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.11",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.11/contentseto-0.3.11.zip",
+  "asset_name": "contentseto-0.3.11.zip",
   "published_at": "2026-07-07T00:00:00+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.10 adds background batch sync jobs, persistent import progress and status, admin cancel and refresh controls, admin-only progress polling, scheduled sync through the same job queue, and capped job cleanup."
+  "body": "ContentSeto 0.3.11 simplifies Import Mapping for non-technical users with API item list auto-detect, clearer target labels, compact mapping preview, safer setup warnings, and dynamic hiding of advanced target fields."
 }
