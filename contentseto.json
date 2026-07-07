@@ -1,12 +1,12 @@
 {
-  "version": "0.3.11",
-  "tag": "v0.3.11",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.11",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.11/contentseto-0.3.11.zip",
-  "asset_name": "contentseto-0.3.11.zip",
+  "version": "0.3.12",
+  "tag": "v0.3.12",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.12",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.12/contentseto-0.3.12.zip",
+  "asset_name": "contentseto-0.3.12.zip",
   "published_at": "2026-07-07T00:00:00+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.11 simplifies Import Mapping for non-technical users with API item list auto-detect, clearer target labels, compact mapping preview, safer setup warnings, and dynamic hiding of advanced target fields."
+  "body": "ContentSeto 0.3.12 adds Mapping Field Explorer with API field, sample value, and data type columns, Use buttons for visual mapping rows, lightweight full-item sample summaries, and an Advanced / Raw Sample view collapsed by default."
 }
