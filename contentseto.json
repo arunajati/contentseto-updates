@@ -1,12 +1,12 @@
 {
-  "version": "0.3.14",
-  "tag": "v0.3.14",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.14",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.14/contentseto-0.3.14.zip",
-  "asset_name": "contentseto-0.3.14.zip",
-  "published_at": "2026-07-07T00:00:00+07:00",
+  "version": "0.3.15",
+  "tag": "v0.3.15",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.15",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.15/contentseto-0.3.15.zip",
+  "asset_name": "contentseto-0.3.15.zip",
+  "published_at": "2026-07-09T13:40:00+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.14 improves Import Mapping target context: ACF field choices are filtered by the selected WordPress content type, mapping controls are target-aware for cache/post/page/CPT/taxonomy/option, and Save Mapping now shows a clear Next: Sync Now step."
+  "body": "ContentSeto 0.3.15 improves Import Sources usability: after Test Request or Preview Data, the Response tab opens automatically and scrolls to the latest result."
 }
