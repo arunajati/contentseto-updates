@@ -1,12 +1,12 @@
 {
-  "version": "0.3.23",
-  "tag": "v0.3.23",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.23",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.23/contentseto-0.3.23.zip",
-  "asset_name": "contentseto-0.3.23.zip",
-  "published_at": "2026-07-09T21:35:00+07:00",
+  "version": "0.3.24",
+  "tag": "v0.3.24",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.24",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.24/contentseto-0.3.24.zip",
+  "asset_name": "contentseto-0.3.24.zip",
+  "published_at": "2026-07-09T21:47:28+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.23 adds a generic template system for import mappings: save current mapping as a template, load templates into other API sources, export template JSON, and import template JSON. Templates stay source-independent and generic."
+  "body": "ContentSeto 0.3.24 adds editable starter templates for Basic Post, Basic Directory, and WooCommerce Product when WooCommerce is available. Starters are setup helpers only and remain fully editable after loading."
 }
