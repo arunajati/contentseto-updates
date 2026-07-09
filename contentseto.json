@@ -1,12 +1,12 @@
 {
-  "version": "0.3.17",
-  "tag": "v0.3.17",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.17",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.17/contentseto-0.3.17.zip",
-  "asset_name": "contentseto-0.3.17.zip",
-  "published_at": "2026-07-09T17:10:00+07:00",
+  "version": "0.3.18",
+  "tag": "v0.3.18",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.18",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.18/contentseto-0.3.18.zip",
+  "asset_name": "contentseto-0.3.18.zip",
+  "published_at": "2026-07-09T17:50:20+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.17 reorganizes Import into a generic five-step API-to-Posts wizard, adds Sync Readiness checks, and clarifies the post creation flow."
+  "body": "ContentSeto 0.3.18 improves generic import mapping rows with Custom Meta Field, target-aware taxonomy mapping, featured image handling, mapping row sample values, and protected meta key validation."
 }
