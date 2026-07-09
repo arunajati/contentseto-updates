@@ -1,12 +1,12 @@
 {
-  "version": "0.3.18",
-  "tag": "v0.3.18",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.18",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.18/contentseto-0.3.18.zip",
-  "asset_name": "contentseto-0.3.18.zip",
-  "published_at": "2026-07-09T17:50:20+07:00",
+  "version": "0.3.19",
+  "tag": "v0.3.19",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.19",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.19/contentseto-0.3.19.zip",
+  "asset_name": "contentseto-0.3.19.zip",
+  "published_at": "2026-07-09T18:37:39+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.18 improves generic import mapping rows with Custom Meta Field, target-aware taxonomy mapping, featured image handling, mapping row sample values, and protected meta key validation."
+  "body": "ContentSeto 0.3.19 adds import modes: Create only, Create / Update, and Full sync with conservative delete-missing behavior for ContentSeto-owned posts from the same source."
 }
