@@ -1,12 +1,12 @@
 {
-  "version": "0.3.19",
-  "tag": "v0.3.19",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.19",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.19/contentseto-0.3.19.zip",
-  "asset_name": "contentseto-0.3.19.zip",
-  "published_at": "2026-07-09T18:37:39+07:00",
+  "version": "0.3.20",
+  "tag": "v0.3.20",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.20",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.20/contentseto-0.3.20.zip",
+  "asset_name": "contentseto-0.3.20.zip",
+  "published_at": "2026-07-09T18:59:34+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.19 adds import modes: Create only, Create / Update, and Full sync with conservative delete-missing behavior for ContentSeto-owned posts from the same source."
+  "body": "ContentSeto 0.3.20 adds per-row transform helpers for visual import mappings: timestamp to date/datetime, clean HTML, strip HTML, array join, trim text, and fallback values."
 }
