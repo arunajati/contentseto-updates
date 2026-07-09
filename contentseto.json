@@ -1,12 +1,12 @@
 {
-  "version": "0.3.21",
-  "tag": "v0.3.21",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.21",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.21/contentseto-0.3.21.zip",
-  "asset_name": "contentseto-0.3.21.zip",
-  "published_at": "2026-07-09T19:20:00+07:00",
+  "version": "0.3.22",
+  "tag": "v0.3.22",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.22",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.22/contentseto-0.3.22.zip",
+  "asset_name": "contentseto-0.3.22.zip",
+  "published_at": "2026-07-09T21:15:00+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.21 improves sync job reliability. The Sync page can safely auto-run the next import batch when WP-Cron is slow, adds Run Next Batch, and shows clearer cron/progress status."
+  "body": "ContentSeto 0.3.22 improves Sync Job UX. Every import run is clearer as a Sync Job with source, target, mode, progress, result, and latest error context. The Sync screen now includes active jobs, and Logs includes clearer job history."
 }
