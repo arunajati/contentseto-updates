@@ -1,12 +1,12 @@
 {
-  "version": "0.3.20",
-  "tag": "v0.3.20",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.20",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.20/contentseto-0.3.20.zip",
-  "asset_name": "contentseto-0.3.20.zip",
-  "published_at": "2026-07-09T18:59:34+07:00",
+  "version": "0.3.21",
+  "tag": "v0.3.21",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.21",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.21/contentseto-0.3.21.zip",
+  "asset_name": "contentseto-0.3.21.zip",
+  "published_at": "2026-07-09T19:20:00+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.20 adds per-row transform helpers for visual import mappings: timestamp to date/datetime, clean HTML, strip HTML, array join, trim text, and fallback values."
+  "body": "ContentSeto 0.3.21 improves sync job reliability. The Sync page can safely auto-run the next import batch when WP-Cron is slow, adds Run Next Batch, and shows clearer cron/progress status."
 }
