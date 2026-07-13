@@ -1,12 +1,12 @@
 {
-  "version": "0.3.25",
-  "tag": "v0.3.25",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.25",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.25/contentseto-0.3.25.zip",
-  "asset_name": "contentseto-0.3.25.zip",
-  "published_at": "2026-07-13T21:22:53+07:00",
+  "version": "0.3.26",
+  "tag": "v0.3.26",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.26",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.26/contentseto-0.3.26.zip",
+  "asset_name": "contentseto-0.3.26.zip",
+  "published_at": "2026-07-13T21:36:12+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.25 improves Sync Job reliability: completed jobs now stop showing active Cancel controls, manual and scheduled syncs start their first safe batch immediately, and finished jobs clear leftover batch schedules."
+  "body": "ContentSeto 0.3.26 fixes Visual Field Mapping so adding a new mapping row no longer changes existing WordPress Field rows to Option/Cache Helper. Mapping target choices now stay aligned with the selected import target across wizard steps."
 }
