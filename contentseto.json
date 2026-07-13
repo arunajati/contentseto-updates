@@ -1,12 +1,12 @@
 {
-  "version": "0.3.26",
-  "tag": "v0.3.26",
-  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.26",
-  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.26/contentseto-0.3.26.zip",
-  "asset_name": "contentseto-0.3.26.zip",
-  "published_at": "2026-07-13T21:36:12+07:00",
+  "version": "0.3.27",
+  "tag": "v0.3.27",
+  "homepage": "https://github.com/arunajati/contentseto-updates/releases/tag/v0.3.27",
+  "package": "https://github.com/arunajati/contentseto-updates/releases/download/v0.3.27/contentseto-0.3.27.zip",
+  "asset_name": "contentseto-0.3.27.zip",
+  "published_at": "2026-07-13T22:02:07+07:00",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
-  "body": "ContentSeto 0.3.26 fixes Visual Field Mapping so adding a new mapping row no longer changes existing WordPress Field rows to Option/Cache Helper. Mapping target choices now stay aligned with the selected import target across wizard steps."
+  "body": "ContentSeto 0.3.27 removes the Mapping Templates panel and unused template save, load, export, import, and starter-template actions so the import mapping wizard is cleaner and easier to use."
 }
